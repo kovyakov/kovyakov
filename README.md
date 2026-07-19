@@ -1,16 +1,18 @@
-## Hi there 👋
+## Yakov
+Engineer, Data Scientist, and Researcher with a focus on teaching and applied research.
 
-<!--
-**kovyakov/kovyakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently lecture in electronics, DSP, and electromagnetism for engineering programs, and teach programming and data analysis at the technical level, with past work in computer hardware, network infrastructure, and control systems.
 
-Here are some ideas to get you started:
+I'm completing my Master's, researching smart sensor networks, LoRa/IoT, and data science for environmental monitoring, applied to precision agriculture and apple orchard productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- Electronics, embedded systems, and low-power wireless
+- IoT architecture and smart sensors
+- Control systems
+- Statistics, modeling, and machine learning
+- 3D printing and rapid prototyping
+
+### Find me
+- 🌐 [kovyakov.dev](https://www.kovyakov.dev)
+- ✍️ [Medium](https://kovyakov.medium.com)
+- 🐦 [Twitter](https://twitter.com/kovyakov)
